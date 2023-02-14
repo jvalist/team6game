@@ -1,4 +1,4 @@
-# Team 6 Anonymous Blog Post
+# Team 6
 
 ## Description
 
