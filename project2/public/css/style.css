@@ -1,24 +1,60 @@
 header, .project:not(:last-child) {
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid rgb(204, 204, 204);
+  align-content: center;
+  text-align:center;
 }
 
+.login-form{
+  align-content: center;
+  text-align:center;
+}
+
+.signup-form{
+  align-content: center;
+  text-align:center;
+}
+
+h2 {
+  align-content: center;
+  text-align:center;
+}
+
+h3 {
+  align-content: center;
+  text-align:center;
+}
+
+.new-project-form{
+  align-content: center;
+  text-align:center;
+}
+
+.results{
+  align-content: center;
+  text-align:center;
+}
+
+.text-center{
+  align-content: center;
+  text-align:center;
+}
 .no-button {
   background: none;
   border: none;
   padding: 0;
   cursor: pointer;
-  color: #1b89bc;
+  color: #dd5d2e;
   text-decoration: none;
   font-size: 100%;
 }
 
 .no-button:hover {
-  color: #065b83;
+  color: #e0571d;
   text-decoration: underline;
 }
 
 .dollar-amount {
-  color: #056605;
+  color: #cb5110;
   font-weight: bold;
   margin-left: -5px;
 }
