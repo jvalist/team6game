@@ -38,6 +38,11 @@ h3 {
   align-content: center;
   text-align:center;
 }
+
+.col-md-5{
+  align-content: center;
+  text-align:center;
+}
 .no-button {
   background: none;
   border: none;
