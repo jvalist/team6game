@@ -1,15 +1,22 @@
-# Team 6
+# Basketball Planner
 
 ## Description
+A simple app to help local basketball enthusiats to find games and players to play for a shared cause. 
 
-## Deployed Link & Screenshots
+## Installation
+Clone project and then CD to the project folder and then run npm i 
 
-## Members 
+## Usage
+For sporting events or fun
 
-Johnny Velasco
+## Constribution
+undefined
 
-Dev Rocha
+## Tests
+via the heroku link 
 
-Eric Anderson 
+## Questions
+jvalist
 
-Julian Mason
+## License
+N/A
